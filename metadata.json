@@ -1,0 +1,7 @@
+{
+  "name": "Zenos OOBE Mode",
+  "description": "Completely blocks the overview and Super key.",
+  "uuid": "zenos-oobe-mode@neg-zero.com",
+  "shell-version": ["49", "50"],
+  "url": ""
+}
