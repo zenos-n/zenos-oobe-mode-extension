@@ -3,5 +3,6 @@
   "description": "Completely blocks the overview and Super key.",
   "uuid": "zenos-oobe-mode@neg-zero.com",
   "shell-version": ["49", "50"],
+  "session-modes": ["user", "zenos-oobe"],
   "url": ""
 }
